@@ -16,6 +16,7 @@ dependencies = [
     "scipy>=1.15.1",
     "starfile>=0.5.11",
     "tifffile>=2024.8.30",
+    "imagecodecs>=2024.6.1",
     "typer>=0.15.1",
     "imodmodel>=0.0.15",
 ]
